@@ -38,6 +38,18 @@ This is a simple Redux application that fetches a list of countries from the [RE
     * This application uses the `react-leaflet-markercluster` library to render marker clusters
     * This application uses the `react-leaflet-geosearch` library to render geose
 
+### Installation redux and react bootstrap
+-  Install Redux Toolkit and React-Redux
+```bash
+npm install @reduxjs/toolkit react-redux
+```
+
+- Install React-Bootstrap and Bootstrap
+```bash
+npm install react-bootstrap bootstrap
+```
+
+
 ## License
 This project is licensed under the MIT License.
 ### Copyright
