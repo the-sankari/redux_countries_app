@@ -21,8 +21,8 @@ This is a simple Redux application that fetches a list of countries from the [RE
 ### Usage
     1. Clone the repository
     2. Run `npm install` to install the dependencies
-    3. Run `npm start` to start the application
-    4. Open `http://localhost:3000` in your browser to view the application
+    3. Run `npm run dev` to start the application
+    4. Open `http://localhost:5173` in your browser to view the application
 ### Notes
     * This application uses the `react-redux` library to connect the Redux store to the React components
     * This application uses the `redux-thunk` middleware to handle side effects in the Redux store
